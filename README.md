@@ -39,7 +39,7 @@ Projects of NN, CNN in TensorFlow
 * Using the MobileNet architecture to develop a food classifier
 ---
 ### [04_Transfer_Learning_in_TensorFlow_Part_1_Feature_extraction_Marco.ipynb](https://github.com/msolorzan/TensorFlow-projects/blob/main/04_Transfer_Learning_in_TensorFlow_Part_1_Feature_extraction_Marco.ipynb)
-## Creado con Colaboratory
+## Transfer Learning: Feature Extraction
 * Understanding the concepts of Feature Extraction on Transfer Learning to develop a food classifier
 ---
 ### [linear_regression_tensorflow.ipynb](https://github.com/msolorzan/TensorFlow-projects/blob/main/linear_regression_tensorflow.ipynb)
