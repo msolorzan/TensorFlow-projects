@@ -42,5 +42,10 @@ Projects of NN, CNN in TensorFlow
 ## Transfer Learning: Feature Extraction
 * Understanding the concepts of Feature Extraction on Transfer Learning to develop a food classifier
 ---
+### [DucksVsHens_Feature_Extraction.ipynb](https://github.com/msolorzan/TensorFlow-projects/blob/main/DucksVsHens_Feature_Extraction.ipynb)
+## Uploaded Transferlearning Excercises using efficientnet_v2_b1
+* Using the efficientnet_v2_b1 architecture to develop a duck and hen classifier
+---
 ### [linear_regression_tensorflow.ipynb](https://github.com/msolorzan/TensorFlow-projects/blob/main/linear_regression_tensorflow.ipynb)
 * Programming a simple linear regressor of NN
+
